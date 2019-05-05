@@ -6,8 +6,8 @@
 </description>
     <link>http://comm-260.github.io/spring-2019/spring-2019/</link>
     <atom:link href="http://comm-260.github.io/spring-2019/spring-2019/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 May 2019 16:00:50 -0400</pubDate>
-    <lastBuildDate>Sun, 05 May 2019 16:00:50 -0400</lastBuildDate>
+    <pubDate>Sun, 05 May 2019 17:17:19 -0400</pubDate>
+    <lastBuildDate>Sun, 05 May 2019 17:17:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -227,15 +227,12 @@ Ebone Bell, founder and editor of Tagg magazine, grew up in the D.C. area and ha
 
 &lt;p&gt;In her article &lt;a href=&quot;https://www.dcpolicycenter.org/publications/history-d-c-prides-places-spaces/&quot;&gt;“A Timeline of LGBTQ places and spaces in D.C,”&lt;/a&gt; she notes how in the 1970s, DuPont Circle, Barracks Row and South Capitol Street became known for their gay and lesbian nightlife. These places were not just important spaces to drink and party, but they were centers of grassroots organizing and activism. But from the 1970s, the number of new gay bars opening steadily declined. Since 2000, these closures have rapidly increased.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Closed LGBTQ D.C. Bars by Tract Since 2000&lt;/strong&gt;&lt;/p&gt;
 &lt;iframe title=&quot;Closed Gay and Lesbian D.C. Bars by Tract Since 2000&quot; aria-label=&quot;USA district of columbia census tracts Symbol map&quot; id=&quot;datawrapper-chart-IV1IO&quot; src=&quot;//datawrapper.dwcdn.net/IV1IO/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();&lt;/script&gt;
 
 &lt;p&gt;Phase One, one of the oldest lesbian bars in the country, opened in 1970 on Barracks Row and closed in February of 2016. It is now a gym, next to a Cava. In 1957, Nob Hill, the Districts first gay bar for African Americans, opened in Columbia Heights. It was a space for gay, black men excluded from D.C. queer nightlife at the time, and it remained that way until it closed in 2004. The space was repurposed into the Wonderland Ballroom, which is not an LGBTQ bar, although every first Thursday of the month they throw a gay dance party. Most other spaces were torn down and became either restaurants, bars, or apartments.&lt;/p&gt;
 
 &lt;p&gt;Of the 47 gay and lesbian bars and clubs that closed since 2000, 23% were repurposed into non-LGBTQ bars and 21% became apartments.&lt;/p&gt;
-
-&lt;p&gt;** Repurposed Closed Gay and Lesbian Bars After 2000 **&lt;/p&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/334224&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
@@ -248,7 +245,6 @@ Ebone Bell, founder and editor of Tagg magazine, grew up in the D.C. area and ha
 
 &lt;p&gt;While writing another &lt;a href=&quot;https://www.dcpolicycenter.org/publications/d-c-nightlife-churn/&quot;&gt;article&lt;/a&gt; on D.C. nightlife, Rabinowitz noticed the data didn’t tell the full story. Some areas, especially Navy Yard, looked entirely new to the nightlife scene but that was because the starting point of the data did not go back far enough. Specifically, in 2006, a number of historic gay and lesbian establishments in Southeast were destroyed to build that Nationals Ballpark Stadium. Many don’t know this history.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Percent Point Difference of White Population per Tract from 2010 to 2017&lt;/strong&gt;&lt;/p&gt;
 &lt;iframe title=&quot;Percent Point Difference of White Population per Tract from 2010 to 2017&quot; aria-label=&quot;USA district of columbia census tracts choropleth map&quot; id=&quot;datawrapper-chart-ppOQ7&quot; src=&quot;//datawrapper.dwcdn.net/ppOQ7/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();&lt;/script&gt;
 
@@ -257,14 +253,11 @@ as D.C.’s most gentrified neighborhood.&lt;/p&gt;
 
 &lt;p&gt;Comparing the percent point difference in white people with the number of gay or lesbian bars that have closed since 2000 per neighborhood, the data shows that the Navy Yard tract was the area with the most closures. This number becomes even larger when the neighborhoods directly surrounding it are included in the count.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Percent Point Difference of Whites from 2010 to 2017 and Number of Lesbian/Gay Bars Closed Per D.C. Census Tract Since 2000&lt;/strong&gt;&lt;/p&gt;
-
 &lt;iframe title=&quot;Percent Point Difference of Whites from 2010 to 2017 and Number of Lesbian/Gay Bars Closed Per D.C. Census Tract Since 2000&quot; aria-label=&quot;Scatter Plot&quot; id=&quot;datawrapper-chart-oCNwr&quot; src=&quot;//datawrapper.dwcdn.net/oCNwr/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important;&quot; height=&quot;500&quot;&gt;&lt;/iframe&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();&lt;/script&gt;
 
 &lt;p&gt;The tracts that make up DuPont Circle showed an increase in their white population and a total of twelve gay bars closures since 2000. Overall, there was a high concentration of closures in the DuPont Circle, Logan Circle, and U St. neighborhoods.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Number per Tract of Closed Lesbian and Gay Bars Since 2000&lt;/strong&gt;&lt;/p&gt;
 &lt;iframe title=&quot;Number per Tract of Closed Lesbian and Gay Bars Since 2000&quot; aria-label=&quot;USA district of columbia census tracts choropleth map&quot; id=&quot;datawrapper-chart-4Aen4&quot; src=&quot;//datawrapper.dwcdn.net/4Aen4/3/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;])for(var e in a.data[&quot;datawrapper-height&quot;]){var t=document.getElementById(&quot;datawrapper-chart-&quot;+e)||document.querySelector(&quot;iframe[src*='&quot;+e+&quot;']&quot;);t&amp;&amp;(t.style.height=a.data[&quot;datawrapper-height&quot;][e]+&quot;px&quot;)}})}();&lt;/script&gt;
 
@@ -279,8 +272,6 @@ as D.C.’s most gentrified neighborhood.&lt;/p&gt;
 &lt;p&gt;For queer womxn of color especially, the lack of nightlife spaces that cater specifically to them has always been an issue. None of the lesbian bars that have opened after 2000 have stayed open for more than a couple of years. To adapt to this, in 2016 a number of queer womxn party promoters began throwing monthly pop-up parties and events in non-LGBTQ spaces.&lt;/p&gt;
 
 &lt;p&gt;“I think gentrification in our own community made us have to create something that’s ours because we are surrounded by everybody that doesn’t look like us,” said Bell. “We go into mainstream bars and sometimes we get harassed, but it’s great to be able to walk into any establishment. However, its comfortable, wonderful, freeing, and safe to walk into a place that is your own where you are surrounded by people who get you and who share the same experiences.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;D.C. LGBTQ Nightlife&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/321102&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;

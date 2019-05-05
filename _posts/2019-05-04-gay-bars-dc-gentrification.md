@@ -22,7 +22,6 @@ Although the issue received wider attention last month with the unexpected closi
 
 In her article [“A Timeline of LGBTQ places and spaces in D.C,”](https://www.dcpolicycenter.org/publications/history-d-c-prides-places-spaces/) she notes how in the 1970s, DuPont Circle, Barracks Row and South Capitol Street became known for their gay and lesbian nightlife. These places were not just important spaces to drink and party, but they were centers of grassroots organizing and activism. But from the 1970s, the number of new gay bars opening steadily declined. Since 2000, these closures have rapidly increased.
 
-**Closed LGBTQ D.C. Bars by Tract Since 2000**
 <iframe title="Closed Gay and Lesbian D.C. Bars by Tract Since 2000" aria-label="USA district of columbia census tracts Symbol map" id="datawrapper-chart-IV1IO" src="//datawrapper.dwcdn.net/IV1IO/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
@@ -30,7 +29,6 @@ Phase One, one of the oldest lesbian bars in the country, opened in 1970 on Barr
 
 Of the 47 gay and lesbian bars and clubs that closed since 2000, 23% were repurposed into non-LGBTQ bars and 21% became apartments.
 
-** Repurposed Closed Gay and Lesbian Bars After 2000 **
 
 <div class="flourish-embed" data-src="visualisation/334224"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -42,7 +40,6 @@ However, the truth is that these places did exist and people did go there. Gentr
 
 While writing another [article](https://www.dcpolicycenter.org/publications/d-c-nightlife-churn/) on D.C. nightlife, Rabinowitz noticed the data didn’t tell the full story. Some areas, especially Navy Yard, looked entirely new to the nightlife scene but that was because the starting point of the data did not go back far enough. Specifically, in 2006, a number of historic gay and lesbian establishments in Southeast were destroyed to build that Nationals Ballpark Stadium. Many don’t know this history.
 
-**Percent Point Difference of White Population per Tract from 2010 to 2017**
 <iframe title="Percent Point Difference of White Population per Tract from 2010 to 2017" aria-label="USA district of columbia census tracts choropleth map" id="datawrapper-chart-ppOQ7" src="//datawrapper.dwcdn.net/ppOQ7/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
@@ -51,14 +48,11 @@ as D.C.’s most gentrified neighborhood.
 
 Comparing the percent point difference in white people with the number of gay or lesbian bars that have closed since 2000 per neighborhood, the data shows that the Navy Yard tract was the area with the most closures. This number becomes even larger when the neighborhoods directly surrounding it are included in the count.
 
-**Percent Point Difference of Whites from 2010 to 2017 and Number of Lesbian/Gay Bars Closed Per D.C. Census Tract Since 2000**
-
 <iframe title="Percent Point Difference of Whites from 2010 to 2017 and Number of Lesbian/Gay Bars Closed Per D.C. Census Tract Since 2000" aria-label="Scatter Plot" id="datawrapper-chart-oCNwr" src="//datawrapper.dwcdn.net/oCNwr/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="500"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 The tracts that make up DuPont Circle showed an increase in their white population and a total of twelve gay bars closures since 2000. Overall, there was a high concentration of closures in the DuPont Circle, Logan Circle, and U St. neighborhoods. 
 
-**Number per Tract of Closed Lesbian and Gay Bars Since 2000** 
 <iframe title="Number per Tract of Closed Lesbian and Gay Bars Since 2000" aria-label="USA district of columbia census tracts choropleth map" id="datawrapper-chart-4Aen4" src="//datawrapper.dwcdn.net/4Aen4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
@@ -75,7 +69,6 @@ For queer womxn of color especially, the lack of nightlife spaces that cater spe
 
 “I think gentrification in our own community made us have to create something that’s ours because we are surrounded by everybody that doesn’t look like us,” said Bell. “We go into mainstream bars and sometimes we get harassed, but it’s great to be able to walk into any establishment. However, its comfortable, wonderful, freeing, and safe to walk into a place that is your own where you are surrounded by people who get you and who share the same experiences.”
 
-**D.C. LGBTQ Nightlife** 
 
 <div class="flourish-embed" data-src="visualisation/321102"></div><script src="https://public.flourish.studio/resources/embed.js"></script> 
 
