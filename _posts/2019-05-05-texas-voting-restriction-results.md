@@ -3,7 +3,7 @@ layout: post
 title:  "The Voting Culture in Texas After the Supreme Court’s Decision in Shelby County v Holder (2013)"
 date:   2019-05-04 23:05:00
 categories: map
-img: Texas.png
+img: texas.png
 author: Julia Ford
 categories: [one, two]
 ---
