@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: COMM-260 Quant Methods & Data Viz (Spring 2018)
+title: COMM-260 Quant Methods & Data Viz (Spring 2019)
 email: tran@american.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Final projects from students in Quantitative Methods & Data Visualization at American University Spring 2018.  
+  Final projects from students in Quantitative Methods & Data Visualization at American University Spring 2019.  
   
-baseurl: "/spring-2018" # the subpath of your site, e.g. /blog
-url: "http://comm-260.github.io/spring-2018" # the base hostname & protocol for your site
+baseurl: "/spring-2019" # the subpath of your site, e.g. /blog
+url: "http://comm-260.github.io/spring-2019" # the base hostname & protocol for your site
 
 #sidebar
 default-image: qmdv.gif # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
